@@ -9,5 +9,5 @@ Made by members of the HKFC discord https://discord.gg/Svjka6Pebp
 | Property Cards | DONE |
 |Scratchie Cards|Discriptions done. Need to add discriptions to design and export|
 |Loyalty Reward Cards|Discriptions done. Need to do design|
-|Objects|In production|
+|Objects|3/4 imported|
 |Money|Need design|
