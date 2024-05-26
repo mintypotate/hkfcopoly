@@ -7,7 +7,7 @@ Made by members of the HKFC discord https://discord.gg/Svjka6Pebp
 | --- | ----------- |
 | Board | Mostly done. Just minor changes to some spaces |
 | Property Cards | DONE |
-|Scratchie Cards|Discriptions done. Need to add discriptions to design and export|
-|Loyalty Reward Cards|Discriptions done. Need to do design|
-|Objects|4/10 imported|
-|Money|Need design|
+| Scratchie Cards | DONE |
+| Loyalty Reward Cards | Discriptions done. Need to do design |
+| Objects | 2/8 Players - 1/2 buildings - 0/2 misc |
+| Money | Need design |
