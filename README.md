@@ -9,5 +9,5 @@ Made by members of the HKFC discord https://discord.gg/Svjka6Pebp
 | Property Cards | DONE |
 | Scratchie Cards | DONE |
 | Loyalty Reward Cards | Discriptions done. Need to do design |
-| Objects | 4/10 imported |
+| Objects | 2/8 Players - 1/2 buildings - 0/2 misc |
 | Money | Need design |
