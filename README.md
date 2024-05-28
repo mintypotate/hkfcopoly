@@ -5,9 +5,9 @@ Made by members of the HKFC discord https://discord.gg/Svjka6Pebp
 ## Game Status
 | Task | Status |
 | --- | ----------- |
-| Board | Mostly done. Just minor changes to some spaces |
+| Board | DONE |
 | Property Cards | DONE |
 | Scratchie Cards | DONE |
-| Loyalty Reward Cards | Discriptions done. Need to do design |
-| Objects | 2/8 Players - 1/2 buildings - 0/2 misc |
+| Loyalty Reward Cards | DONE |
+| Objects | 4/8 Players - 1/1 buildings - 1/2 misc |
 | Money | Need design |
