@@ -9,7 +9,7 @@ Made by members of the HKFC discord https://discord.gg/Svjka6Pebp
 | Property Cards | DONE |
 | Scratchie Cards | DONE |
 | Loyalty Reward Cards | DONE |
-| Objects | 5/8 Players - 1/1 buildings - 1/2 misc |
+| Objects | 5/8 Players - 1/1 buildings - 2/2 misc |
 | Money | Need design |
 
 ## Whats in the box?
