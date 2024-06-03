@@ -9,13 +9,13 @@ Made by members of the HKFC discord https://discord.gg/Svjka6Pebp
 | Property Cards | DONE |
 | Scratchie Cards | DONE |
 | Loyalty Reward Cards | DONE |
-| Objects | 5/8 Players - 1/1 buildings - 2/2 misc |
-| Money | Need design |
+| Objects | 5/6 Players - 1/1 buildings - 2/2 misc |
+| Money | DONE |
 
 ## Whats in the box?
 - A Monopoly board
 - Two dice
-- 5 game tokens
+- 6 player tokens
 - 32 Zinger Boxs and 12 Buckets
 - 16 Instant Scratchies and 16 Loyalty Rewards Cards
 - A title deed card for each property
